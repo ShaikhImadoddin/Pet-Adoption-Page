@@ -4,7 +4,7 @@ This is a simple, responsive pet adoption landing page built using **HTML** and 
 
 ## 📸 Preview
 
-![screenshot](image.png)
+![screenshot](assets/image.png)
 *A sample pet profile: Jerry the Dog*
 
 ## 💡 Features
@@ -36,6 +36,11 @@ This is a simple, responsive pet adoption landing page built using **HTML** and 
 
 📱 Responsive Design
 The layout adjusts for screens smaller than 500px using media queries, ensuring a smooth experience on mobile devices.
+
+## 🔗 Live Demo
+
+👉 **[Click here to view the website](https://shaikhimadoddin.github.io/Pet-Adoption-Page/)**
+
 
 📜 License
 This project is open-source and free to use under the MIT License.
