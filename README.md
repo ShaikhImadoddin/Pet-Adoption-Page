@@ -7,6 +7,9 @@ This is a simple, responsive pet adoption landing page built using **HTML** and 
 ![screenshot](assets/image.png)
 *A sample pet profile: Jerry the Dog*
 
+![screen shot 2](assets/image2.png)
+*A sample pet Profile: On Mobile View*
+
 ## 💡 Features
 
 - Clean and modern layout using Flexbox.
@@ -17,9 +20,13 @@ This is a simple, responsive pet adoption landing page built using **HTML** and 
 ## 📂 Project Structure
 
 ├── index.html # Main HTML file
+
 ├── style.css # Stylesheet for the page
+
 └── assets/
+
 ├── dog.jpg # Image of Jerry
+
 └── cat.jpg # Image of Tom
 
 
